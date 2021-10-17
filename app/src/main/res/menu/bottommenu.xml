@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/all"
+        android:title="all"
+        android:icon="@drawable/all"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/cat"
+        android:title="cat"
+        android:icon="@drawable/ic_action_name"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/catw"
+        android:title="cat two"
+        android:icon="@drawable/ic_action_name"
+        app:showAsAction="always"
+        />
+
+
+
+</menu>
